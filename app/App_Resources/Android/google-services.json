@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "509116476294",
+    "firebase_url": "https://syed-test.firebaseio.com",
+    "project_id": "syed-test"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509116476294:android:d702392e72d1a2f7",
+        "android_client_info": {
+          "package_name": "org.nativescript.HelloWorld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509116476294-ap2jvp6mcj4fems3k15b538tkvio19eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeFCVFSK7S4a_N5ZbRAPM0cPkoFsbaGhg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
